@@ -1,2 +1,3 @@
 # password-generator
-github exercises
+
+Generate a random password
